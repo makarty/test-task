@@ -1,0 +1,16 @@
+.selected {
+    background-color: springgreen;
+    cursor: pointer;
+}
+
+.item {
+    cursor: pointer;
+}
+
+.tooltip-text {
+    position: absolute;
+}
+
+body {
+    position: relative;
+}
